@@ -1,0 +1,13 @@
+# dummy domain
+https://redirects.surveillance.today/ https://www.surveillance.today/ 301
+
+# store
+https://store.surveillance.today/ https://teespring.com/surveillance-today 301
+
+# social media
+https://instagram.surveillance.today/ https://instagram.com/egd.io 302
+https://facebook.surveillance.today/ https://facebook.com/egd.io 302
+https://twitter.surveillance.today/ https://twitter.com/egd_io 302
+
+# surveil-links
+https://surveil.link/ https://www.surveillance.today/ 301
